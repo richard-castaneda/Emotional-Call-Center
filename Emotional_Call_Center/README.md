@@ -14,7 +14,7 @@ Each module is separated into its own directory with specific dependencies and R
 - TextAnalysis - Text-based Emotion Detection
 - MultimodalFusion - Fusion of FER, SER, and Text Analysis
 - 
-otebooks - Jupyter notebooks with examples and demos
+Notebooks - Jupyter notebooks with examples and demos
 - data - Placeholder for data links and setup scripts
 
 ## Setup Instructions
