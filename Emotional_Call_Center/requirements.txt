@@ -1,0 +1,10 @@
+# Requirements for Emotion Detection Project
+
+# Add module-specific dependencies here
+opencv-python
+numpy
+pandas
+torch
+transformers
+scipy
+matplotlib
